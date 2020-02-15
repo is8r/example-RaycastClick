@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6A712F68-4A7B-2152-C760-F52F02626D57}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Example.cs">
+    <Files>
+      <File FileName="Assets/Example.cs" Line="22" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="example-RaycastClick" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Example.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7597bf60-28bf-43cc-847b-198bd3042af8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
